@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @melonicecream
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://velog.io/@melonicecream">
+    <img 
+        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@melonicecream"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-<!---
-melonicecream/melonicecream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![본인깃허브ID's GitHub stats](https://github-readme-stats.vercel.app/api?username=melonicecream&show_icons=true&theme=dracula) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melonicecream&layout=compact&theme=dracula&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
